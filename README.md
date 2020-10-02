@@ -1,3 +1,3 @@
-# `moto` workshop
+# `moto` tutorial
 
-Run `./start_workshop.sh` to start
+Run `./start_tutorial.sh` to start the jupyterbook.
