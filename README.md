@@ -1,3 +1,3 @@
-# `factory-boy` workshop
+# `moto` workshop
 
-Run `./start_workshop.sh`
+Run `./start_workshop.sh` to start
